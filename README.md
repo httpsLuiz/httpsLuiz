@@ -1,3 +1,4 @@
-Olá! Eu sou o Luiz 👋🏽
+ Olá! Eu sou o Luiz 👋
 
-https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+ Estudante de Engenharia De Software
+ Contate-me:fergonzaga2015@gmail.com
